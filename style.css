@@ -1,0 +1,74 @@
+main {
+  border: 1px dashed black;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+body {
+  background-color: #d2c3db;
+}
+
+h1 {
+  text-align: center;
+  border: 2px dashed black;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+fieldset {
+  border: 2px dashed black;
+}
+  
+section {
+  padding-top: 10px;
+}
+  
+#dice_roll_result {
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+  
+#num_table {
+  text-align: center;
+  border: 5px double black;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+}
+
+.section_layout {
+  border: 2px dashed black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  margin: 30px;
+}
+
+.num_select {
+  text-align: center;
+  border: 2px dashed black;
+  width: 11%;
+  height: 100px;
+}
+
+.selected {
+  text-align: center;
+  border: 2px dashed black;
+  width: 11%;
+  height: 100px;
+  background-color: #ac9cb5;
+}  
+  
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  opacity: 1;
+  background: #d2c3db;
+}
+    
